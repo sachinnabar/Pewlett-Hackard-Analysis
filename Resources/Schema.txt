@@ -26,7 +26,7 @@ emp_no pk fk - Employees.emp_no
 from_date date
 to_date date 
 
-Dept_Emp
+Department_Employees
 -
 dep_no varchar pk fk - Departments.dept_no
 emp_no pk fk - Employees.emp_no fk - Salaries.emp_no 
